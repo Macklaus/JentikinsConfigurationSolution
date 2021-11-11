@@ -1,0 +1,13 @@
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\bin\Debug\netcoreapp3.1\JentikinsConfiguration.exe
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\bin\Debug\netcoreapp3.1\JentikinsConfiguration.deps.json
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\bin\Debug\netcoreapp3.1\JentikinsConfiguration.runtimeconfig.json
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\bin\Debug\netcoreapp3.1\JentikinsConfiguration.runtimeconfig.dev.json
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\bin\Debug\netcoreapp3.1\JentikinsConfiguration.dll
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\bin\Debug\netcoreapp3.1\JentikinsConfiguration.pdb
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\obj\Debug\netcoreapp3.1\JentikinsConfiguration.csprojAssemblyReference.cache
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\obj\Debug\netcoreapp3.1\JentikinsConfiguration.AssemblyInfoInputs.cache
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\obj\Debug\netcoreapp3.1\JentikinsConfiguration.AssemblyInfo.cs
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\obj\Debug\netcoreapp3.1\JentikinsConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\obj\Debug\netcoreapp3.1\JentikinsConfiguration.dll
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\obj\Debug\netcoreapp3.1\JentikinsConfiguration.pdb
+C:\Users\10pearls\source\repos\JentikinsConfigurationSolution\JentikinsConfiguration\obj\Debug\netcoreapp3.1\JentikinsConfiguration.genruntimeconfig.cache
